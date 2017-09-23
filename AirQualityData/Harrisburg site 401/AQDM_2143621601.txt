@@ -1,0 +1,2 @@
+site,data_status,action_code,datetime,parameter,duration,frequency,value,unit,qc,poc,lat,lon,GISDatum,elev,method_code,mpc,mpc_value,uncertainty,qualifiers
+END OF FILE
