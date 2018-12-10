@@ -1,0 +1,21 @@
+cd AtmoChem/FlightData 
+conda env create -f environment.yml
+
+
+Option #1: opensky_data
+
+Python interface to the OpenSky Network Impala shell
+ https://github.com/xoolive/opensky_data
+
+git clone https://github.com/xoolive/opensky_data
+pip install ./opensky_data
+cd opensky_data
+jupyter notebook
+
+# open notebook.ipynb
+
+
+
+Option #2: Impala
+
+See impala.ipynb
